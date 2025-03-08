@@ -7,5 +7,5 @@ fn main() {
 }
 
 fn test() {
-    println!("We are here.");
+    println!("We called test().");
 }

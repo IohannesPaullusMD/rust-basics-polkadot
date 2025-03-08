@@ -1,1 +1,1 @@
-/Users/armielynobinguar/rust-basics-web3-cebu-polkadot/examples/2-variables/variables/target/debug/variables: /Users/armielynobinguar/rust-basics-web3-cebu-polkadot/examples/2-variables/variables/src/main.rs
+D:\JPD\Documents\programming\blockchain\rust-basics-polkadot\examples\02-variables\variables\target\debug\variables.exe: D:\JPD\Documents\programming\blockchain\rust-basics-polkadot\examples\02-variables\variables\src\main.rs

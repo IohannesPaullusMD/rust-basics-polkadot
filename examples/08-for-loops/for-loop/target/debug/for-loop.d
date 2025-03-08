@@ -1,0 +1,1 @@
+D:\JPD\Documents\programming\blockchain\rust-basics-polkadot\examples\08-for-loops\for-loop\target\debug\for-loop.exe: D:\JPD\Documents\programming\blockchain\rust-basics-polkadot\examples\08-for-loops\for-loop\src\main.rs

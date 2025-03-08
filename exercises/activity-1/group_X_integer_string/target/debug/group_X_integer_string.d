@@ -1,0 +1,1 @@
+D:\JPD\Documents\programming\blockchain\rust-basics-polkadot\exercises\activity-1\group_X_integer_string\target\debug\group_X_integer_string.exe: D:\JPD\Documents\programming\blockchain\rust-basics-polkadot\exercises\activity-1\group_X_integer_string\src\main.rs

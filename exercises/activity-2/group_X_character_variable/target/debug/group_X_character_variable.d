@@ -1,0 +1,1 @@
+D:\JPD\Documents\programming\blockchain\rust-basics-polkadot\exercises\activity-2\group_X_character_variable\target\debug\group_X_character_variable.exe: D:\JPD\Documents\programming\blockchain\rust-basics-polkadot\exercises\activity-2\group_X_character_variable\src\main.rs

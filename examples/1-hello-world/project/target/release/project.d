@@ -1,0 +1,1 @@
+D:\JPD\Documents\programming\blockchain\rust-basics-polkadot\examples\1-hello-world\project\target\release\project.exe: D:\JPD\Documents\programming\blockchain\rust-basics-polkadot\examples\1-hello-world\project\src\main.rs

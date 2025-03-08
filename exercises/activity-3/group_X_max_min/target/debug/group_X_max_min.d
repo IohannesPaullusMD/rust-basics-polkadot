@@ -1,0 +1,1 @@
+D:\JPD\Documents\programming\blockchain\rust-basics-polkadot\exercises\activity-3\group_X_max_min\target\debug\group_X_max_min.exe: D:\JPD\Documents\programming\blockchain\rust-basics-polkadot\exercises\activity-3\group_X_max_min\src\main.rs
